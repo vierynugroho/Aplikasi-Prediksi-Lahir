@@ -1,0 +1,48 @@
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe.config
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\bin\Debug\tugasUAS.pdb
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.csprojAssemblyReference.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form1.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Properties.Resources.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.exe
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.pdb
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form2.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN LANJUT\CD\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form3.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe.config
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\bin\Debug\tugasUAS.pdb
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form1.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form2.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form3.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.exe
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.pdb
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\tugasUAS\tugasUAS\obj\Debug\tugasUAS.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form1.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form2.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form3.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.exe
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.pdb
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe.config
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_-K7-HPL [Final]\Program - tugasUAS\tugasUAS\bin\Debug\tugasUAS.pdb
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe.config
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\bin\Debug\tugasUAS.exe
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\bin\Debug\tugasUAS.pdb
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form1.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form2.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Form3.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.exe
+C:\Users\LENOVO\Desktop\BelajarSkuyy\KULIAH\SEMESTER 2\UAS\Pemrograman Lanjut\UAS_PL_K7-HPL [Final]\Program - tugasUAS\tugasUAS\obj\Debug\tugasUAS.pdb
